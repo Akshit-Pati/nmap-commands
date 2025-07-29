@@ -172,7 +172,7 @@ nmap -sV --script=http-vuln-cve2017-5638 -p80 <target>
 #### It checks if the target's Apache Struts server is vulnerable to a known remote code execution bug.
 
 ---
-1. replace '<target>' with the IP/domain that  you want to scan.
+1. replace 'target' with the IP/domain that  you want to scan.
 2. Combine multiple flags/scripts for deeper scans.
 3. Use responsibly and legally. This toolkit is for **ethical hacking** only.
 
